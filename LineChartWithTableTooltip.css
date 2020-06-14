@@ -1,0 +1,22 @@
+.detail_table{
+    background-color: lightgray;
+    overflow-x:auto;
+    font-size: 13;
+}
+
+.table-div{
+    border: 1px solid black;
+    border-radius: 5%;
+    padding: 3%;
+    background-color: steelblue;
+    
+}
+
+.selected{
+    fill: red
+}
+
+.not_selected{
+    opacity: 0.5;
+    fill: steelblue
+}
